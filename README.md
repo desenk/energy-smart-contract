@@ -1,1 +1,1 @@
-# energy_smart_contract
+# Energy Smart Contract
